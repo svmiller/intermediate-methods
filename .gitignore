@@ -1,11 +1,11 @@
 # Ignore everything
 *
 
-.Rproj.user
-.Rhistory
-_cache
-cache
-temp.Rmd
-*_cache
-*_files
-figures
+#.Rproj.user
+#.Rhistory
+#_cache
+#cache
+#temp.Rmd
+#*_cache
+#*_files
+#figures
